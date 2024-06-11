@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there👋, I'm Afonso
 
-<!--
-**afonsocortereal15/afonsocortereal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 My Story:
+Passionate about technology since childhood, when I used my first Arduino kit, I embarked on a learning journey that led me to robotics, IoT, and software development. Currently, I am in the 3rd and final year of the Professional Computer Programmer Course at Esprominho, where I am improving my skills in various programming languages.
 
-Here are some ideas to get you started:
+## 🖥 Technologies:
+- HTML / CSS / JS (Bootstrap)
+- Python
+- C
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓Goals:
+- Complete the Computer Programmer course
+- Take a Computer Engineering course
+- Work as a software developer
+
+## 🏀Hobbies:
+- Virtual Air Traffic Controller at IVAO
+- Cycling
+
+### Connect with me:
+<div>
+  <a href="https://www.linkedin.com/in/afonsocortereal15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
