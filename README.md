@@ -1,7 +1,7 @@
 # Hello there👋, I'm Afonso
 
 ## 👨‍💻 My Story:
-Passionate about technology since childhood, when I used my first Arduino kit, I embarked on a learning journey that led me to robotics, IoT, and software development. Currently, I am in the 3rd and final year of the Professional Computer Programmer Course at Esprominho, where I am improving my skills in various programming languages.
+I've loved technology ever since I was young, and that passion has led me to explore robotics, IoT, and software development. I'm currently studying Computer Systems Engineering at IPCA, and I'm constantly expanding my knowledge of different programming languages and other areas of IT.
 
 ## 🖥 Technologies:
 - HTML / CSS / JS (Bootstrap)
@@ -10,15 +10,10 @@ Passionate about technology since childhood, when I used my first Arduino kit, I
 - PHP
 
 ## 👨‍🎓Goals:
-- Complete the Computer Programmer course
-- Take a Computer Engineering course
+- To complete a degree in Computer Systems Engineering
 - Work as a software developer
-
-## 🏀Hobbies:
-- Virtual Air Traffic Controller at IVAO
-- Cycling
 
 ### Connect with me:
 <div>
-  <a href="https://www.linkedin.com/in/afonsocortereal15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/afonsocortereal15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
